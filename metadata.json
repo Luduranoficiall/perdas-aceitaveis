@@ -1,0 +1,6 @@
+{
+  "name": "Perdas Aceitáveis - Godot 4.8 Showcase",
+  "description": "Comande seus esquadrões de trincheira na campanha de 20 dias da 1ª Guerra Mundial de Perdas Aceitáveis, com gráficos 3D táticos e tecnologia Godot 4.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
